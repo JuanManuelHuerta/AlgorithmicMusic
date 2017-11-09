@@ -1,0 +1,3 @@
+ git add class_3/*.* 1101_3/*.*
+ git commit --author jmhuertany@gmail.com -m "Updates to third class"
+ git push -u origin master
